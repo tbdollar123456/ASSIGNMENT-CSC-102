@@ -4,7 +4,7 @@
      <p>MATRIC NUMBER: EU220102-3061</p>
      <p>COURSE: Computer science</p>
      <p>Github link: </p> 
-</h2> https://youtube.com/
+</h2>https://github.com/tbdollar123456/ASSIGNMENT-CSC-102/edit/main/README.md 
  1.<p>Request user to input their username<p>
  2.<p>Request user to input their password<p>
  3.<p>Request user to confirm their password<p>
